@@ -1,7 +1,7 @@
 node_modules
 
 *.debug
-
+devices.json
 work
 
 *-lock.json
