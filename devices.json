@@ -5,5 +5,12 @@
         "ipAddress" : "10.97.32.176",
         "username" : "collab",
         "password" : "sale$"
+    },
+    {
+        "id": "BCICBOARD",
+        "location": "BCIC",
+        "ipAddress" : "10.97.32.103",
+        "username" : "collab",
+        "password" : "sale$"
     }
 ]
